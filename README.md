@@ -1,2 +1,2 @@
 # foodpro
-Xamarin mobile android and ios development for online food services
+Xamarin mobile android and ios development for online food services and backend by GraphQL
